@@ -12,6 +12,7 @@
 - TODO Booker
 - TODO Warren
 - TODO Castro
+- TODO Klobuchar
 
 ### By Total Page Weight (largest to smallest)
 
@@ -20,6 +21,7 @@
 | Harris     | 6.7 MB      |
 | Gillibrand | 4.3 MB      |
 | Booker     | 2.6 MB      |
+| Klobuchar  | 2.3 MB      |
 | Castro     | 745 KB      |
 | Warren     | 732 KB      |
 
@@ -30,12 +32,11 @@
 | Harris     | 977 KB      |
 | Warren     | 340 KB      |
 | Booker     | 284 KB      |
+| Klobuchar  | 198 KB      |
 | Gillibrand | 180 KB      |
 | Castro     | 140 KB      |
 
 ### Screenshots of Lighthouse Audits
-(TODO: I have full json of the audits, just need to plop them somewhere for viewing/download)
-
 [](https://kamalaharris.org/)
 ![Screenshot of kamalaharris.com](https://cl.ly/096e0421f42b/harris.png)
 
@@ -50,3 +51,6 @@
 
 [](https://elizabethwarren.com/)
 ![Screenshot of elizabethwarren.com](https://cl.ly/1214cef5beff/warren.png)
+
+[](https://amyklobuchar.com/)
+![Screenshot of amyklobuchar.com](https://cl.ly/73ae811450f3/klobuchar.png)
