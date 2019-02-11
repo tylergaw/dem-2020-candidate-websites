@@ -8,7 +8,7 @@
 
 ### SSL Reports
 - **Grade A**: [Harris](https://www.ssllabs.com/ssltest/analyze.html?d=kamalaharris.org)
-- TODO Gillibrand
+- **Grade A**: [Gillibrand](https://www.ssllabs.com/ssltest/analyze.html?d=kirstengillibrand.com)
 - TODO Booker
 - TODO Warren
 - TODO Castro
