@@ -36,6 +36,14 @@
 | Gillibrand | 180 KB      |
 | Castro     | 140 KB      |
 
+### CSS Stats
+Stats on the primary stylesheet by [cssstats.com](https://cssstats.com)
+
+[**Klobuchar**](https://cssstats.com/stats?link=https%3A%2F%2Famyklobuchar.com%2Fwp-content%2Fthemes%2Fscotchpress%2Fstyle.css)
+- 5,858 selectors
+- 50 unique colors
+- Highest z-index; `99999999999999999999`
+
 ### Screenshots of Lighthouse Audits
 [](https://kamalaharris.org/)
 ![Screenshot of kamalaharris.com](https://cl.ly/096e0421f42b/harris.png)
